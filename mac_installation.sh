@@ -14,7 +14,8 @@ brew cask install vlc spotify slack
 # dev tools
 brew cask install pycharm intellij-idea datagrip appcode rubymine phpstorm
 
-brew install ansible hugo boost cmake jq peco plantuml tmux watch htop
+brew tap jhawthorn/fzy
+brew install ansible hugo boost cmake jq peco plantuml tmux watch htop fzy ccat
 
 
 # tex layer

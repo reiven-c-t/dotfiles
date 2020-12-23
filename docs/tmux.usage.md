@@ -15,7 +15,11 @@
 - セッション削除: $ tmux kill-session -t {セッションIDとか名前}
 - 全セッション削除: $ tmux kill-server
 - 現在のセッションを削除: ctrl + b -> &
+- 現在のパネル削除: ctrl + b -> x
 - 水平分割: ctrl + b -> "
 - 垂直分割: ctrl + b -> %
 - 任意パネルに移動: ctrl + b -> q
 - 現在パネルの削除: ctrl + b -> x
+- 上パネルと入れ替える: ctrl + b -> {
+- 下パネルと入れ替える: ctrl + b -> }
+- 
