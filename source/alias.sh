@@ -4,4 +4,6 @@ alias history='history -Di'
 alias bc='bc -l'
 alias a='open -a "$(cat ~/dotfiles/data/applist.txt|peco)"'
 alias bm='open -a "/Applications/Google Chrome.app/" $(cat ~/dotfiles/data/bookmark.txt| peco)'
-
+alias b='buku --suggest'
+alias memo='vi ~/Documents/memo'
+alias todo='vi ~/Documents/memo/todo'
