@@ -1,6 +1,0 @@
-[submodule "source/enhancd"]
-	path = source/enhancd
-	url = https://github.com/b4b4r07/enhancd
-[submodule "vim/bundle/Vundle.vim"]
-	path = vim/bundle/Vundle.vim
-	url = https://github.com/VundleVim/Vundle.vim.git
